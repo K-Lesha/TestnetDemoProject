@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49199198-061A-40B0-8E47-96F76BB34987"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09B6E22B-3AC5-4E4A-8908-BF2A78694D9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09B6E22B-3AC5-4E4A-8908-BF2A78694D9F - 20ee8849eb91e677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "09B6E22B-3AC5-4E4A-8908-BF2A78694D9F - c3998e236a75b697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "09B6E22B-3AC5-4E4A-8908-BF2A78694D9F - 20ee8849eb91e677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A094FE4-7192-4782-ABA6-B0E1ADB736ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A094FE4-7192-4782-ABA6-B0E1ADB736ED - 20ee8849eb919b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "0A094FE4-7192-4782-ABA6-B0E1ADB736ED - 20ee8849eb919b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "0A094FE4-7192-4782-ABA6-B0E1ADB736ED - 48a933eda06bf249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0A094FE4-7192-4782-ABA6-B0E1ADB736ED - 48a933eda06bf249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86B45205-0C78-4CB6-B5E5-1D1B43DC70E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D046907-ABAB-4AC1-8FE4-DAB3E678140C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF1A9D5A-78E7-4117-A56A-D7CEFBFD8246"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC2BC80F-FEFF-4E44-AC8A-8B9D9B45BDDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C058335-1C81-4AC6-AEBE-AE5446C06B29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DAE5D85-E60F-4C26-9B42-9F98F5346E8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE555930-C322-40DC-A088-6A088617CAA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE555930-C322-40DC-A088-6A088617CAA0 - 20ee8849eb91e468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "EE555930-C322-40DC-A088-6A088617CAA0 - 20ee8849eb91e468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DAC7192-9B43-4A2D-A2EC-EDC3F92F0863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DAC7192-9B43-4A2D-A2EC-EDC3F92F0863 - 20ee8849eb919b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "6DAC7192-9B43-4A2D-A2EC-EDC3F92F0863 - 20ee8849eb919b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "6DAC7192-9B43-4A2D-A2EC-EDC3F92F0863 - 20ee8849eb919b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "753BCB76-7779-4B89-A169-DB4C3D19D417"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "wallet"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - a2c7d9381779bcdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of TestnetDemoProject.WalletViewModel.address : Swift.String"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 38d70ad84a8d4be1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.address.getter : Swift.String"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 3fef44f778beab89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.address.setter : Swift.String"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 8adf4ea6776ef3e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.address.modify : Swift.String"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - d67a533ca60328d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.address.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 92302e6640cb71d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.$address.getter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 939a4710fef0311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.$address.setter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 776320136939f96e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.$address.modify : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 22282568d12b5f21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.$address.modify : Combine.Published&lt;Swift.String&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 36d19093fbeb5c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.init() -&gt; TestnetDemoProject.WalletViewModel"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "6B8C0A70-3721-4EBB-8336-766F2DB0BB51 - 6980b15d07f04d06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.wallet.didset : Swift.Optional&lt;BitcoinDevKit.Wallet&gt;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E2FC145-0F68-4EA5-B204-0E84491D6C39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF5B1359-F5BF-4847-AD9D-D01279D1400D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAA1EDCB-A3C9-405A-98EA-0014C8B648CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/ViewComponents/ActionButtonsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "ActionButtonsView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBA37683-68B9-4AE2-A206-6B0BBBCF3612"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "isValidBitcoinAddress(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBA37683-68B9-4AE2-A206-6B0BBBCF3612 - 5232b30ad2e4bc4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "DBA37683-68B9-4AE2-A206-6B0BBBCF3612 - 5232b30ad2e4bc4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "DBA37683-68B9-4AE2-A206-6B0BBBCF3612 - 5232b30ad2e4bc4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "DBA37683-68B9-4AE2-A206-6B0BBBCF3612 - 5232b30ad2e4bc6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA5A7997-2B74-4345-8044-6F9B604FDA65"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "isValidBitcoinAddress(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA5A7997-2B74-4345-8044-6F9B604FDA65 - 5232b30ad2e4bc6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "AA5A7997-2B74-4345-8044-6F9B604FDA65 - 5232b30ad2e4bc6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "AA5A7997-2B74-4345-8044-6F9B604FDA65 - 5232b30ad2e4bc0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "055A32BA-1C87-4FF5-988F-CD4397545914"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 895441d867a70b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 895441d867a70b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 895441d867a70b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 10309b14dfd519bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 10309b14dfd519bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "055A32BA-1C87-4FF5-988F-CD4397545914 - 10309b14dfd519bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "964EC3F1-FCC5-4B20-96F0-CB99FC73A070"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "isValidBitcoinAddress(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "964EC3F1-FCC5-4B20-96F0-CB99FC73A070 - 5232b30ad2e4bcf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "964EC3F1-FCC5-4B20-96F0-CB99FC73A070 - 5232b30ad2e4bc91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.isValidBitcoinAddress(_: Swift.String, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F5DB077-45F1-4D1D-AF88-2B9A58540A5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0F5DB077-45F1-4D1D-AF88-2B9A58540A5E - 592bf97daec4af13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in TestnetDemoProject.SendButtonView.body.getter : some"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "0F5DB077-45F1-4D1D-AF88-2B9A58540A5E - 592bf97daec4af13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in TestnetDemoProject.SendButtonView.body.getter : some"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA741CD-A943-4820-B86B-81CE68CE4122"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21506DB9-A461-4CF4-B825-4A58A27A71E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21506DB9-A461-4CF4-B825-4A58A27A71E6 - 95fd2604e712ae0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "21506DB9-A461-4CF4-B825-4A58A27A71E6 - 95fd2604e712ae6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE89BD96-3A19-4E61-A496-739DDD508DC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE89BD96-3A19-4E61-A496-739DDD508DC1 - 95fd2604e712acd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "AE89BD96-3A19-4E61-A496-739DDD508DC1 - 95fd2604e712acd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "AE89BD96-3A19-4E61-A496-739DDD508DC1 - 95fd2604e712ad36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C72D124-BEE3-41EB-B3DB-2E6AAB02DC4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C72D124-BEE3-41EB-B3DB-2E6AAB02DC4C - 95fd2604e712acb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "0C72D124-BEE3-41EB-B3DB-2E6AAB02DC4C - 95fd2604e712acf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "172F719B-9C68-4F70-BDC0-17222095DF6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "tryToSend()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "172F719B-9C68-4F70-BDC0-17222095DF6F - 6d8a1bf4e174ba2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; () in TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "172F719B-9C68-4F70-BDC0-17222095DF6F - 502af98b7304ad9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "172F719B-9C68-4F70-BDC0-17222095DF6F - 6d8a1bf4e174ba63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; () in TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "172F719B-9C68-4F70-BDC0-17222095DF6F - 502af98b7304ad9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76D55E7D-BC63-4D64-A8EF-C980CE01C41E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "tryToSend()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "821E2B04-0415-4A5B-8540-E81D57D84F6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tryToSend()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B622B396-0607-4D3F-A4EB-0EF77EF0BE40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tryToSend()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B622B396-0607-4D3F-A4EB-0EF77EF0BE40 - 6d8a1bf4e174bb25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; () in TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "B622B396-0607-4D3F-A4EB-0EF77EF0BE40 - 6d8a1bf4e174bb04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; () in TestnetDemoProject.SendButtonView.tryToSend() -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/Views/SendView/ViewComponents/SendButtonView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C4ED5C7-57A4-4920-831A-1C2AEB08FFCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C4ED5C7-57A4-4920-831A-1C2AEB08FFCB - 95fd2604e712ad8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "4C4ED5C7-57A4-4920-831A-1C2AEB08FFCB - 95fd2604e712ade9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B70F5C7-BF07-41CD-B25C-B318E9FD9B48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B70F5C7-BF07-41CD-B25C-B318E9FD9B48 - 95fd2604e712adab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "7B70F5C7-BF07-41CD-B25C-B318E9FD9B48 - 95fd2604e712ad8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86A854D9-1A4F-4C56-96EA-DC3B47F0D76E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86A854D9-1A4F-4C56-96EA-DC3B47F0D76E - 95fd2604e712ad74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "86A854D9-1A4F-4C56-96EA-DC3B47F0D76E - 95fd2604e712adab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F39CC1A3-6D09-4854-B6CE-8D88BF9C86FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F39CC1A3-6D09-4854-B6CE-8D88BF9C86FE - 95fd2604e712ad36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "F39CC1A3-6D09-4854-B6CE-8D88BF9C86FE - 95fd2604e712ad15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADFB7C19-C9A9-4F51-86B1-6AB366F8D798"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "send(to:amount:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADFB7C19-C9A9-4F51-86B1-6AB366F8D798 - 95fd2604e712ad15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "ADFB7C19-C9A9-4F51-86B1-6AB366F8D798 - 95fd2604e712ad74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.send(to: Swift.String, amount: Swift.UInt64, completion: (Swift.Result&lt;Swift.String, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3E1BE2B-CBC0-4251-898D-7091B1B06A5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3E1BE2B-CBC0-4251-898D-7091B1B06A5E - 20ee8849eb91e694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "A3E1BE2B-CBC0-4251-898D-7091B1B06A5E - 20ee8849eb91e6f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EEEB2A6-C131-4358-B7DA-C83950440D08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EEEB2A6-C131-4358-B7DA-C83950440D08 - 20ee8849eb91e6d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "4EEEB2A6-C131-4358-B7DA-C83950440D08 - 20ee8849eb91e6f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A97B9BE8-C926-4445-9F22-36A5E6F0A5C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "start(mnemonic:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A97B9BE8-C926-4445-9F22-36A5E6F0A5C4 - 20ee8849eb919b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "A97B9BE8-C926-4445-9F22-36A5E6F0A5C4 - 20ee8849eb919b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestnetDemoProject.WalletViewModel.start(mnemonic: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "TestnetDemoProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkovalenko/Desktop/TestnetDemoProject/TestnetDemoProject/WalletVieModel/WalletViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "637E61E4-DC8E-41B0-A464-8EDE6237320D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestnetDemoProject/MainCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setErrorView(description:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
