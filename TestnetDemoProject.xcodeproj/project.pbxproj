@@ -30,6 +30,7 @@
 		5923F2F52AB8F35800ABCA0C /* TransactionHashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923F2F42AB8F35800ABCA0C /* TransactionHashView.swift */; };
 		5923F2F72AB8F3F600ABCA0C /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923F2F62AB8F3F600ABCA0C /* BackButton.swift */; };
 		5923F2F92AB8F51C00ABCA0C /* LogoutButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923F2F82AB8F51C00ABCA0C /* LogoutButton.swift */; };
+		599DA6432AB9AC7C0020A525 /* WalletCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DA6422AB9AC7C0020A525 /* WalletCodable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		5923F2F42AB8F35800ABCA0C /* TransactionHashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionHashView.swift; sourceTree = "<group>"; };
 		5923F2F62AB8F3F600ABCA0C /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
 		5923F2F82AB8F51C00ABCA0C /* LogoutButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoutButton.swift; sourceTree = "<group>"; };
+		599DA6422AB9AC7C0020A525 /* WalletCodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletCodable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				5923F2D22AB8DEDE00ABCA0C /* Keys.swift */,
+				599DA6422AB9AC7C0020A525 /* WalletCodable.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				5923F2B32AB8D33D00ABCA0C /* WalletViewModel.swift in Sources */,
 				5923F2B12AB8D33D00ABCA0C /* TestnetDemoProject.swift in Sources */,
 				5923F2C52AB8D41800ABCA0C /* MainCoordinator.swift in Sources */,
+				599DA6432AB9AC7C0020A525 /* WalletCodable.swift in Sources */,
 				5923F2F32AB8F34D00ABCA0C /* SendButtonView.swift in Sources */,
 				5923F2D02AB8DC7B00ABCA0C /* WalletError.swift in Sources */,
 				5923F2D32AB8DEDE00ABCA0C /* Keys.swift in Sources */,

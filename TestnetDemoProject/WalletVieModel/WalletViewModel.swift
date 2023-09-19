@@ -65,18 +65,29 @@ class WalletViewModel: ObservableObject {
             
             do {
                 try wallet.sync(blockchain: blockchain, progress: nil)
-                let balance = try wallet.getBalance().confirmed
-                let wallet_transactions: [TransactionDetails] = try wallet.listTransactions(includeRaw: false)
-
-                DispatchQueue.main.async {
-                    self.balance = balance
-                    self.balanceText = String(format: "%.8f", Double(self.balance) / Double(100000000))
-                    self.transactions = wallet_transactions
-                }
+                updateBalance()
           } catch {
               self.balanceText = "try to refresh it later"
           }
         }
+    }
+    
+    private func updateBalance() {
+        let url = URL(string: "https://api.blockcypher.com/v1/btc/test3/addrs/\(address)")!
+        let task = URLSession.shared.dataTask(with: url) { data, response, error in
+            guard error == nil,
+                  let data = data else { return }
+            do {
+                let decoder = JSONDecoder()
+                let decodedData = try decoder.decode(WalletCodable.self, from: data)
+                DispatchQueue.main.async {
+                    self.balanceText = String(format: "%.8f", Double(decodedData.balance) / Double(100000000))
+                }
+            } catch {
+                print("Ошибка декодирования: \(error)")
+            }
+        }
+        task.resume()
     }
     
     func send(to recipient: String, amount: UInt64, completion: @escaping (Result<String, Error>) -> Void) {
