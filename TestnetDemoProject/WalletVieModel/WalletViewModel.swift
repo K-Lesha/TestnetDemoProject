@@ -65,6 +65,7 @@ class WalletViewModel: ObservableObject {
             
             do {
                 try wallet.sync(blockchain: blockchain, progress: nil)
+                self.balance = try wallet.getBalance().confirmed
                 updateBalance()
           } catch {
               self.balanceText = "try to refresh it later"
@@ -115,8 +116,6 @@ class WalletViewModel: ObservableObject {
                         throw error
                     }
                 }
-                
-
                 let _ = try wallet.sign(psbt: details.psbt, signOptions: nil)
                 let tx = details.psbt.extractTx()
                 try blockchain.broadcast(transaction: tx)
