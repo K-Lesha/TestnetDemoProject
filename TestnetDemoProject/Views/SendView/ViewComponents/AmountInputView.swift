@@ -1,4 +1,5 @@
 import SwiftUI
+import Combine
 
 struct AmountInputView: View {
     @Binding var amountText: String
@@ -14,6 +15,12 @@ struct AmountInputView: View {
                 .textFieldStyle(RoundedBorderTextFieldStyle())
                 .padding()
                 .keyboardType(.decimalPad)
+                .onReceive(Just(amountText)) { newValue in
+                    let filtered = newValue.filter { "0123456789.".contains($0) }
+                    if filtered != newValue {
+                        self.amountText = filtered
+                    }
+                }
         }
     }
 }

@@ -14,15 +14,6 @@ struct SendButtonView: View {
     var body: some View {
         Button(action: {
             tryToSend()
-//            viewModel.isValidBitcoinAddress(recipientAddress) { result in
-//                switch result {
-//                case .success(_):
-//                    tryToSend()
-//                case .failure(let error):
-//                    alertText = error.localizedDescription
-//                    showAlert = true
-//                }
-//            }
         }) {
             Text("Send")
                 .foregroundColor(.white)
@@ -42,10 +33,8 @@ struct SendButtonView: View {
     func tryToSend() {
         
         let bitcoinAmount: Double = Double(sendAmountText) ?? 0
-        let satoshis = UInt64(bitcoinAmount * 100_000_000)
-        print(satoshis)
         
-        viewModel.send(to: recipientAddress, amount: satoshis) { result in
+        viewModel.send(to: recipientAddress, bitcoinAmount: bitcoinAmount) { result in
             switch result {
             case .success(let txid):
                 transactionHash = txid
@@ -59,7 +48,8 @@ struct SendButtonView: View {
                     case .InvalidU32Bytes(let message),
                             .Generic(let message),
                             .Rpc(let message),
-                            .OutputBelowDustLimit(let message):
+                            .OutputBelowDustLimit(let message),
+                            .InsufficientFunds(message: let message):
                         errorMessage = message
                     default:
                         errorMessage = bdkError.localizedDescription

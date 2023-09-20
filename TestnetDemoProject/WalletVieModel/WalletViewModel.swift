@@ -90,23 +90,40 @@ class WalletViewModel: ObservableObject {
         task.resume()
     }
     
-    func send(to recipient: String, amount: UInt64, completion: @escaping (Result<String, Error>) -> Void) {
+    func send(to recipient: String, bitcoinAmount: Double, completion: @escaping (Result<String, Error>) -> Void) {
         guard let wallet, let blockchain else {
             completion(.failure(WalletError.missingWalletOrBlockchain))
             return
         }
         
+        guard bitcoinAmount > 0 else {
+            completion(.failure(WalletError.sumIsTooSmall))
+            return
+        }
+        
+        
         DispatchQueue.global().async {
             do {
                 let address = try Address(address: recipient)
                 let script = address.scriptPubkey()
-                let txBuilder = TxBuilder().addRecipient(script: script, amount: amount)
+                let satoshisAmount = UInt64(bitcoinAmount * 100_000_000)
+                let txBuilder = TxBuilder().addRecipient(script: script, amount: satoshisAmount)
                 let details = try txBuilder.finish(wallet: wallet)
+                if let fee = details.transactionDetails.fee {
+                    if (fee + satoshisAmount) >= self.balance {
+                        let error = WalletError.transactionSumIsTooBig
+                        throw error
+                    }
+                }
+                
+
                 let _ = try wallet.sign(psbt: details.psbt, signOptions: nil)
                 let tx = details.psbt.extractTx()
                 try blockchain.broadcast(transaction: tx)
                 let txid = details.psbt.txid()
-                self.refresh()
+                DispatchQueue.main.async {
+                    self.refresh()
+                }
                 completion(.success(txid))
             } catch let error {
                 completion(.failure(error))
