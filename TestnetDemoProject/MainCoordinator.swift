@@ -14,45 +14,60 @@ class MainCoordinator: ObservableObject {
     var walletViewModel: WalletViewModel = .init()
         
     init() {
-        tryToRestroreLoginData()
-    }
-    
-    func tryToRestroreLoginData() {
-        if let mnemonic = UserDefaults.standard.string(forKey: Keys.mnemonicKey),
-        let password = UserDefaults.standard.string(forKey: Keys.passwordKey) {
-            login(mnemonic: mnemonic, password: password)
-        } else {
-            state = .createWallet
+        Task {
+            await tryToRestroreLoginData()
         }
     }
     
-    func login(mnemonic: String, password: String) {
-        save(mnemonic: mnemonic, password: password)
-        walletViewModel.start(mnemonic: mnemonic, password: password)
-        walletViewModel.coordinator = self
-        state = .walletOverview
+    func tryToRestroreLoginData() async {
+        if let mnemonic = UserDefaults.standard.string(forKey: Keys.mnemonicKey),
+        let password = UserDefaults.standard.string(forKey: Keys.passwordKey) {
+            await login(mnemonic: mnemonic, password: password)
+        } else {
+            showCreateWallet()
+        }
     }
-    private func save(mnemonic: String, password: String) {
-        UserDefaults.standard.set(mnemonic, forKey: Keys.mnemonicKey)
-        UserDefaults.standard.set(password, forKey: Keys.passwordKey)
-        UserDefaults.standard.synchronize()
+
+    func showCreateWallet() {
+        DispatchQueue.main.async {
+            self.state = .createWallet
+        }
     }
     
     func showOverview() {
-        state = .walletOverview
+        DispatchQueue.main.async {
+            self.state = .walletOverview
+        }
     }
     
     func showSendView() {
-        state = .send
+        DispatchQueue.main.async {
+            self.state = .send
+        }
     }
     
     func setErrorView(description: String) {
-        state = .error(description: description)
+        DispatchQueue.main.async {
+            self.state = .error(description: description)
+        }
+    }
+    
+    func login(mnemonic: String, password: String) async {
+        save(mnemonic: mnemonic, password: password)
+        await walletViewModel.start(mnemonic: mnemonic, password: password)
+        walletViewModel.coordinator = self
+        showOverview()
     }
     
     func logout() {
         UserDefaults.standard.set(nil, forKey: Keys.mnemonicKey)
         UserDefaults.standard.set(nil, forKey: Keys.passwordKey)
-        state = .createWallet
+        showCreateWallet()
+    }
+    
+    private func save(mnemonic: String, password: String) {
+        UserDefaults.standard.set(mnemonic, forKey: Keys.mnemonicKey)
+        UserDefaults.standard.set(password, forKey: Keys.passwordKey)
+        UserDefaults.standard.synchronize()
     }
 }

@@ -25,7 +25,9 @@ struct CreateWalletView: View {
                 .padding()
             
             Button(action: {
-                coordinator.login(mnemonic: mnemonicText, password: passwordText)
+                Task {
+                    await coordinator.login(mnemonic: mnemonicText, password: passwordText)
+                }
             }) {
                 Text("Login")
                     .foregroundColor(.white)

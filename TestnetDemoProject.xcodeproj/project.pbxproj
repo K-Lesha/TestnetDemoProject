@@ -31,6 +31,7 @@
 		5923F2F72AB8F3F600ABCA0C /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923F2F62AB8F3F600ABCA0C /* BackButton.swift */; };
 		5923F2F92AB8F51C00ABCA0C /* LogoutButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5923F2F82AB8F51C00ABCA0C /* LogoutButton.swift */; };
 		599DA6432AB9AC7C0020A525 /* WalletCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599DA6422AB9AC7C0020A525 /* WalletCodable.swift */; };
+		59BEB3872ABCF88E00FD9EEB /* WalletManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59BEB3862ABCF88E00FD9EEB /* WalletManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		5923F2F62AB8F3F600ABCA0C /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackButton.swift; sourceTree = "<group>"; };
 		5923F2F82AB8F51C00ABCA0C /* LogoutButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoutButton.swift; sourceTree = "<group>"; };
 		599DA6422AB9AC7C0020A525 /* WalletCodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletCodable.swift; sourceTree = "<group>"; };
+		59BEB3862ABCF88E00FD9EEB /* WalletManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,11 +97,13 @@
 				5923F2B02AB8D33D00ABCA0C /* TestnetDemoProject.swift */,
 				5923F2C42AB8D41800ABCA0C /* MainCoordinator.swift */,
 				5923F2C22AB8D40100ABCA0C /* MainCoordrinatorView.swift */,
-				5923F2E02AB8E43100ABCA0C /* WalletVieModel */,
+				5923F2E02AB8E43100ABCA0C /* WalletViewModel */,
 				5923F2D42AB8E0A100ABCA0C /* Views */,
-				5923F2D12AB8DED500ABCA0C /* Helpers */,
+				5923F2D12AB8DED500ABCA0C /* Resources */,
+				59BEB3882ABCF8B400FD9EEB /* Models */,
 				5923F2CE2AB8DC6E00ABCA0C /* Errors */,
 				5923F2C92AB8DC3800ABCA0C /* Extensions */,
+				59BEB3852ABCF87C00FD9EEB /* Services */,
 				5923F2B72AB8D33E00ABCA0C /* Assets.xcassets */,
 				5923F2B92AB8D33E00ABCA0C /* LaunchScreen.storyboard */,
 				5923F2BC2AB8D33E00ABCA0C /* Info.plist */,
@@ -123,13 +127,12 @@
 			path = Errors;
 			sourceTree = "<group>";
 		};
-		5923F2D12AB8DED500ABCA0C /* Helpers */ = {
+		5923F2D12AB8DED500ABCA0C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				5923F2D22AB8DEDE00ABCA0C /* Keys.swift */,
-				599DA6422AB9AC7C0020A525 /* WalletCodable.swift */,
 			);
-			path = Helpers;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		5923F2D42AB8E0A100ABCA0C /* Views */ = {
@@ -154,12 +157,12 @@
 			path = ViewComponents;
 			sourceTree = "<group>";
 		};
-		5923F2E02AB8E43100ABCA0C /* WalletVieModel */ = {
+		5923F2E02AB8E43100ABCA0C /* WalletViewModel */ = {
 			isa = PBXGroup;
 			children = (
 				5923F2B22AB8D33D00ABCA0C /* WalletViewModel.swift */,
 			);
-			path = WalletVieModel;
+			path = WalletViewModel;
 			sourceTree = "<group>";
 		};
 		5923F2E92AB8F30E00ABCA0C /* SendView */ = {
@@ -190,6 +193,22 @@
 				5923F2F62AB8F3F600ABCA0C /* BackButton.swift */,
 			);
 			path = ViewComponents;
+			sourceTree = "<group>";
+		};
+		59BEB3852ABCF87C00FD9EEB /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				59BEB3862ABCF88E00FD9EEB /* WalletManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		59BEB3882ABCF8B400FD9EEB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				599DA6422AB9AC7C0020A525 /* WalletCodable.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,6 +291,7 @@
 				5923F2D82AB8E0B700ABCA0C /* CreateWalletView.swift in Sources */,
 				5923F2B32AB8D33D00ABCA0C /* WalletViewModel.swift in Sources */,
 				5923F2B12AB8D33D00ABCA0C /* TestnetDemoProject.swift in Sources */,
+				59BEB3872ABCF88E00FD9EEB /* WalletManager.swift in Sources */,
 				5923F2C52AB8D41800ABCA0C /* MainCoordinator.swift in Sources */,
 				599DA6432AB9AC7C0020A525 /* WalletCodable.swift in Sources */,
 				5923F2F32AB8F34D00ABCA0C /* SendButtonView.swift in Sources */,
